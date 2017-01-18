@@ -8,4 +8,4 @@ fine and if they are performant.
 TODO
 ----
 
- [ ] A nice Makefile or CMake, for those who want to compile Linux modules on Plan 9
+* [ ] A nice Makefile or CMake, for those who want to compile Linux modules on Plan 9
