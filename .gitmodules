@@ -1,0 +1,3 @@
+[submodule "rockchip-vpu-driver"]
+	path = rockchip-vpu-driver
+	url = https://github.com/Miouyouyou/rockchip-vcodec
